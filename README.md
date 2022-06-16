@@ -1,3 +1,4 @@
 # Module 1 Development of an Organizational Incident Response Plan for responding to threats
 Computer security incident response has become an important component of information technology (IT) programs. Because performing incident response effectively is a complex undertaking, establishing a successful incident response capability requires substantial planning and resources.
+
 This module assists mentees in establishing computer security incident response capabilities and handling incidents efficiently and effectively. The module provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications.
