@@ -1,4 +1,4 @@
-# Module 1.
+# CTO Mentorship Program: Module 1
 
 This Repository contains materials on Organizational Incident Response Plan. The module provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications.
 
