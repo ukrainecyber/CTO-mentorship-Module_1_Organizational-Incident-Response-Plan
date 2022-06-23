@@ -6,5 +6,5 @@ The repositories’ materials and presentation, developed as a part of CTO mento
 
 The first module provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications. 
 
-These materials was prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity. 
+These materials were prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity. 
 
