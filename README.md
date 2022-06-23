@@ -1,9 +1,10 @@
 # CTO Mentoring Program: Module 1
 
-This Repository contains materials on Organizational Incident Response Plan. The first module provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications.
+To best safeguard the organization’s digital assets and reputation, CTOs, cybersecurity management teams, IT managers, security and systems managers among different sectors need to develop a robust, yet flexible incident response plan tailored to the company’s unique needs. A comprehensive plan allows them to respond to incidents quickly and effectively and is crucial for minimizing damage and recovering from an incident.
 
-This module, in turn, consists of presentation with an introduction to the topic and additional materials, which are linked in terms of content and are rounded off thematically, availiable in English and Ukrainian versions.
+This repositories’ materials and presentation, developed as a part of CTO mentorship program, covers areas where incident response is part of the incident management process. It also covers techniques and mechanisms used to identify and deal with cybersecurity incidents. The areas looked at include organizational incident response plan. 
 
-Materials on Organizational Incident Response Plan developed as a part of CTO mentorship program.
+The first module provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. The guidelines can be followed independently of particular hardware platforms, operating systems, protocols, or applications. 
 
-This publication was produced by the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity under Contract No. 72012120C00002 at the request of the United States Agency for International Development. This document is made possible by the support of the American people through the United States Agency for International Development. Its contents are the sole responsibility of the author or authors and do not necessarily reflect the views of USAID or the U.S. Government. 
+This publication was prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity. 
+
