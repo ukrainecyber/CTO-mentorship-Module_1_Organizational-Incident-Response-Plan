@@ -1,4 +1,4 @@
-# CTO Mentoring Program: Module 1
+# CTO Mentorship Program: Module 1
 
 To best safeguard the organization’s digital assets and reputation, CTOs, cybersecurity management teams, IT managers, security and systems managers among different sectors need to develop a robust, yet flexible incident response plan tailored to the company’s unique needs. A comprehensive plan allows them to respond to incidents quickly and effectively and is crucial for minimizing damage and recovering from an incident.
 
