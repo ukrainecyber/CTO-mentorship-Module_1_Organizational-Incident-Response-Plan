@@ -8,4 +8,6 @@ No organization, regardless of size, is exempt from cybersecurity threats, and h
 
 Each phase from preparation to lessons learned is extremely beneficial to follow in sequence, as each one builds upon the other. The following phases will provide a basic foundation to be able to perform incident response and allow one to create their own incident response plan. 
 
+All training materials are prepared in English and Ukrainian languages accompanied with the whitepapers from the international experts in English.
+
 These materials were prepared by Catalisto LLC for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity. 
